@@ -4,13 +4,13 @@ This repository contains my submission for **Task 1** of the **Future Interns Da
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 - Dataset: Superstore Sales Data
 - Tool: Power BI
 - Objective: Analyze sales, orders, returns, and profitability
 
-### ✅ KPIs Used:
+###  KPIs Used:
 - Total Sales
 - Total Orders
 - Total Profit
@@ -20,7 +20,7 @@ This repository contains my submission for **Task 1** of the **Future Interns Da
 
 ---
 
-## 🧠 Key Insights
+##  Key Insights
 - High sales from Office Supplies, but Technology gives higher margins
 - Canon Copier leads revenue; Stapler leads unit sales
 - Recommendations included for business strategy
